@@ -33,7 +33,7 @@ ol {
 li {
   padding-right: 5px;
 }
-img {
+.image{
   width: 100px;
   border-radius: 10px;
 }
