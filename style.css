@@ -33,10 +33,7 @@ ol {
 li {
   padding-right: 5px;
 }
-.image{
-  width: 100px;
-  border-radius: 10px;
-}
+
 
 table {
   border: 5px solid black;
@@ -61,4 +58,11 @@ td {
   );
   padding: 20px;
   border-radius: 5px;
+}
+.image{
+  width: 100px;
+  border-radius: 10px;
+}
+.imgs {
+  max-width: 100%;
 }
