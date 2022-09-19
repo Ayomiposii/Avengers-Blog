@@ -65,4 +65,13 @@ td {
 }
 .imgs {
   max-width: 100%;
+  margin: 20px 0px;
+  border-radius: 20px;
+}
+.images {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  max-width: 100%;
+  border-radius: 20px;
 }
